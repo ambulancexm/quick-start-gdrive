@@ -22,18 +22,22 @@ public class Main {
 	
 	public static void main(String[] args) throws IOException {
 		
-		Map<String, String> mapData = new LinkedHashMap<String, String>();
-		mapData.put("lg", "aaaaa");
-		mapData.put("parent", "bbbbb");
-		mapData.put("source", "ccccc");
-		mapData.put("style", "dddddd");
-		mapData.put("target", "eeeee");
-		mapData.put("value", "fffff");
-		
-		RequestPost requestPost = new RequestPost();
-		
-		requestPost.sendPOST(mapData);
+//		Map<String, String> mapData = new LinkedHashMap<String, String>();
+//		mapData.put("lg", "aaaaa");
+//		mapData.put("parent", "bbbbb");
+//		mapData.put("source", "ccccc");
+//		mapData.put("style", "dddddd");
+//		mapData.put("target", "eeeee");
+//		mapData.put("value", "fffff");
 //		
+//		RequestPost requestPost = new RequestPost();
+//		
+//		requestPost.sendPOST(mapData);
+		
+		
+		
+		
+		
 	}
 
 	
