@@ -1,4 +1,4 @@
-package exApiGdrive.quickstart;
+package exApiGdrive.quickstart.model;
 
 import java.util.HashMap;
 import java.util.Map;

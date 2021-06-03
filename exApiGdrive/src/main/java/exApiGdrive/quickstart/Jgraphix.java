@@ -21,6 +21,8 @@ import com.mxgraph.model.mxCell;
 import com.mxgraph.model.mxGeometry;
 import com.mxgraph.model.mxGraphModel;
 
+import exApiGdrive.quickstart.model.Cell;
+
 public class Jgraphix {
 
 	public static void main(String[] args) {
