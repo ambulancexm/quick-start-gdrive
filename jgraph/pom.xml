@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>fr</groupId>
+	<artifactId>jgraph</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>ApiJgraphX</name>
+	<description>essai avec la librairie jgraphx</description>
+
+	<dependencies>
+		
+<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.25</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>1.7.25</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.github.jgraph/jgraphx -->
+		<dependency>
+			<groupId>com.github.jgraph</groupId>
+			<artifactId>jgraphx</artifactId>
+			<version>v4.0.0</version>
+		</dependency>
+
+	</dependencies>
+</project>

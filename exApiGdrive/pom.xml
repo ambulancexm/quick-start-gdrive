@@ -42,7 +42,11 @@
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.7.25</version>
 		</dependency>
-
+		<dependency>
+			<artifactId>jgraphx</artifactId>
+			<groupId>com.github.vlsi.mxgraph</groupId>
+			<version>4.2.2</version>
+		</dependency>
 
 
 	</dependencies>
